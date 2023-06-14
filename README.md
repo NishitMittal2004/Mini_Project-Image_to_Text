@@ -1,1 +1,1 @@
-# Mini_Project-Image_to_Text_-OCR-
+# Mini Project - Image to Text (OCR)
